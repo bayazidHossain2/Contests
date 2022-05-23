@@ -1,0 +1,5 @@
+Friend # 1 : 15
+Friend # 2 : Bad Luck
+Friend # 3 : 1
+Friend # 4 : 68
+Friend # 5 : 27

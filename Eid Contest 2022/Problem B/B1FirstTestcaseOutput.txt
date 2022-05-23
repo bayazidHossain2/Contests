@@ -1,0 +1,5 @@
+H ii -> two
+H vii -> seven
+H xii -> NR
+M vii -> seven
+H vvi -> NR
